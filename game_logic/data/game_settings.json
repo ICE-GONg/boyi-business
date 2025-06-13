@@ -1,0 +1,9 @@
+{
+    "initial_player_capital": 100000.0,
+    "engineer_efficiency": 40,
+    "city_report_cost": 5000.0,
+    "city_store_cost": 10000.0,
+    "min_product_price": 1.0,
+    "max_product_price": 100.0,
+    "total_rounds": 10
+}
