@@ -1,0 +1,20 @@
+[
+    {
+        "name": "城市A市场",
+        "total_market_size": 10000,
+        "base_material_cost": 5.0,
+        "base_labor_cost": 10.0,
+        "loan_interest_rate": 0.05,
+        "initial_avg_price": 20.0,
+        "current_round": 0
+    },
+    {
+        "name": "城市B市场",
+        "total_market_size": 8000,
+        "base_material_cost": 5.5,
+        "base_labor_cost": 11.0,
+        "loan_interest_rate": 0.06,
+        "initial_avg_price": 22.0,
+        "current_round": 0
+    }
+]
